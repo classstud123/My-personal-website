@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    padding-top: 600px;
+    padding-top: 900px;
     background: linear-gradient(red, green, blue, yellow, purple);
 }
 
@@ -46,7 +46,7 @@ img {
     padding-right: 9px;
     padding-bottom: 5px;
     font-family: fantasy;
-    font-size: 20px
+    font-size: 18px
 }
 
 .links:hover {
